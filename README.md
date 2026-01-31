@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Pathi Sudharshan</h1>
-<h3 align="center">Software Engineer | Backend • Data • Full-Stack</h3>
 
 <p align="center">
   <a href="https://github.com/Pathi345">
